@@ -40,6 +40,4 @@ body{
 .box :hover{
     background-color: silver;
 }
-.box img :hover{
-    background-color: silver;
-}
+
