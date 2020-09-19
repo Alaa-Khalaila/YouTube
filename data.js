@@ -1,4 +1,4 @@
-const videos = [
+export  const videos = [
   {
     id: "7yLxxyzGiko",
     title: "Kittens walk with a tiny chicken",
@@ -40,4 +40,3 @@ const videos = [
     thumbnail: "https://img.youtube.com/vi/RmpuhbdnAfQ/maxresdefault.jpg",
   },
 ];
-
